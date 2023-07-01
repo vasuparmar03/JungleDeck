@@ -1,4 +1,7 @@
 # JungleDeck
+![image_2023-07-02_004130767](https://github.com/vasuparmar03/JungleDeck/assets/105802362/311e53f7-687c-445e-b309-b2638d14c694)
+
+
 
 ## Inspiration:
 Our deep passion for nature led to JUNGLEDECK - SAVE NATURE, a platform raising awareness, educating, and inspiring action for conservation. 
