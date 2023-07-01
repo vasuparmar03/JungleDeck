@@ -1,7 +1,7 @@
 # JungleDeck
 
 ## Inspiration:
- Our deep passion for nature led to JUNGLEDECK - SAVE NATURE, a platform raising awareness, educating, and inspiring action for conservation. 
+Our deep passion for nature led to JUNGLEDECK - SAVE NATURE, a platform raising awareness, educating, and inspiring action for conservation. 
 
 ## What it does: 
 It offers informative articles, interactive workshops, and engaging campaigns, empowering users to make a positive impact on the environment. 
