@@ -7628,9 +7628,10 @@ h1, h2, h3, h4, h5,
   .btn.btn-primary {
     background: #f86f2d;
     border: 1px solid #f86f2d;
-    color: #fff; }
+    color: #fff; 
+  border-radius: 7px;}
     .btn.btn-primary:hover {
-      border: 1px solid #f86f2d;
+      border: 2px solid #f86f2d;
       background: transparent !important;
       color: #f86f2d; }
     .btn.btn-primary.btn-outline-primary {
